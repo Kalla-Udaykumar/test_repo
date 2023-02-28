@@ -153,8 +153,8 @@
   <project name="nn-hal" path="vendor/intel/external/project-celadon/nn-hal" remote="github" revision="cbdc8f1acaa1601fb57dbd827779dd951cd69f69"/>
   <project name="oneDNN" path="vendor/intel/external/project-celadon/mkl-dnn" remote="github" revision="f3288eb3841e83d25b80477dfb8555ba1e97581a"/>
   <project name="oneTBB" path="vendor/intel/external/project-celadon/oneTBB" remote="github" revision="2dba2072869a189b9fdab3ffa431d3ea49059a19"/>
-  <project name="oneVPL" path="vendor/intel/external/onevpl" remote="github" revision="2aa29fcb453d81ace11cb50bc355ff63b1b70231" />
-  <project name="oneVPL-Intel-GPU" path="vendor/intel/external/onevpl-intel-gpu" remote="github" revision="425973487397bb75bc536e19b84034401f08c9cb" />
+  <project name="oneVPL" path="vendor/intel/external/onevpl" remote="github" revision="2aa29fcb453d81ace11cb50bc355ff63b1b70231"/>
+  <project name="oneVPL-Intel-GPU" path="vendor/intel/external/onevpl-intel-gpu" remote="github" revision="425973487397bb75bc536e19b84034401f08c9cb"/>
   <project name="os.android.bsp.display-virtualization-asl" path="vendor/intel/external/dvAsl" remote="innersource" revision="b1e5612232949e22781c3c23f0c3b66f7f9f1b3b">
     <annotation name="readonly" value="false"/>
   </project>

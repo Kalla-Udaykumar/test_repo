@@ -158,7 +158,7 @@
   <project name="os.android.bsp.display-virtualization-asl" path="vendor/intel/external/dvAsl" remote="innersource" revision="b1e5612232949e22781c3c23f0c3b66f7f9f1b3b">
     <annotation name="readonly" value="false"/>
   </project>
-  <project groups="bsp-priv,embargoed,lfs" name="os.android.bsp.inteloneapi" path="external/inteloneapi" remote="innersource" revision="e091bf2ffa5218485622da01138051513584ed18"/>
+  <project groups="bsp-priv,embargoed,lfs" name="os.android.bsp.inteloneapi" path="external/inteloneapi" remote="innersource" revision="e091bf2ffa5218485622da01138051513584ed18">
     <annotation name="g_external" value="no"/>
     <annotation name="all_external" value="no"/>
     <annotation name="readonly" value="false"/>
